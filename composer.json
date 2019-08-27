@@ -1,5 +1,5 @@
 {
-    "name": "custom-local/rtl-ext",
+    "name": "mitismirza/flarum-rtl",
     "type": "flarum-extension",
     "description": "RTL Extension.",
     "keywords": ["RTL"],
