@@ -1,6 +1,4 @@
 ## Flarum RTL Extension 
 
-Finally, First RTl extension for flarum.
-This extension is built for flarum beta 5
-
-http://www.flarumarabia.com
+All You Need To Do For Rtl The Flarum Is:
+``` Composer require mitismirza/flarum-rtl ```
